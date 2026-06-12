@@ -77,6 +77,23 @@ Execute o sistema:
 ```bash
 python D'licia.py
 ```
+## 📸 Imagens do Sistema
+
+### Tela de Login
+
+![Tela de Login](Tela%20Login.PNG)
+
+### Controle de Estoque
+
+![Controle de Estoque](Tela%20Estoque.PNG)
+
+### Controle de Vendas
+
+![Controle de Vendas](Tela%20Vendas.PNG)
+
+### Controle de Custos
+
+![Controle de Custos](Tela%20Custos.PNG)
 
 ## 👨‍💻 Autor
 
